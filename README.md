@@ -16,10 +16,12 @@ Download everything you need from ONE place.
 
 I am glad you ask!
 
-1. Download Git for your Operating system. [Win7/8] (https://windows.github.com/) -- [Mac] (https://mac.github.com/) -- [Linux] (http://git-scm.com/download/linux)
-2. [Set it up on your pc] (https://help.github.com/articles/set-up-git)
-3. Open the Git Shell and clone this repo with this command ``` Test ```
-4. 
+1. Download Git for [your Operating system] (http://git-scm.com/book/en/Getting-Started-Installing-Git)
+2. [Set it up on your pc] (http://git-scm.com/book/en/Getting-Started-First-Time-Git-Setup)
+3. Open the Git Bash and clone this repository with this command ``` Git clone https://github.com/vikinghug/VikingActionBarSet.git ```
+4. Now git have cloned the repository onto your locale machine in the deafult filepath. (C:/Users/YourUserName)
+5. But to get files into each subfolder we need to run a new command. First navigate to the repository in the Git Bash commandline with ``` cd VikingActionBarSet ```
+6. Then run this command ``` 
 
 
 ### Manual Requirements to use this:
