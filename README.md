@@ -24,10 +24,11 @@ I am glad you ask!
 6. Then run this command ``` 
 
 
-### Manual Requirements to use this:
+### Whats inside the Set
 
-This is ONLY if you want to get each requirement individually 
+The set consist of these which is required to run the VikingActionBarFrames
 
+* [VikingActionBarFrame] (https://github.com/vikinghug/VikingActionBarFrame)
 * [VikingActionBarShortcut] (https://github.com/vikinghug/VikingActionBarShortcut)
 * [VikingClassResources] (https://github.com/vikinghug/VikingClassResources)
 * [VikingMedic] (https://github.com/vikinghug/VikingMedic)
