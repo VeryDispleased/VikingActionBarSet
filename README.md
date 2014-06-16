@@ -1,1 +1,1 @@
-# VikingActionBarSet\n
+# VikingActionBarSet
