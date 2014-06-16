@@ -1,0 +1,21 @@
+[submodule "VikingActionBarFrame"]
+	path = VikingActionBarFrame
+	url = git@github.com:vikinghug/VikingActionBarFrame.git
+[submodule "VikingActionBarShortcut"]
+	path = VikingActionBarShortcut
+	url = git@github.com:vikinghug/VikingActionBarShortcut.git
+[submodule "VikingClassResources"]
+	path = VikingClassResources
+	url = git@github.com:vikinghug/VikingClassResources.git
+[submodule "VikingMedic"]
+	path = VikingMedic
+	url = git@github.com:vikinghug/VikingMedic.git
+[submodule "VikingRecallFrame"]
+	path = VikingRecallFrame
+	url = git@github.com:vikinghug/VikingRecallFrame.git
+[submodule "VikingStalkerResource"]
+	path = VikingStalkerResource
+	url = git@github.com:vikinghug/VikingStalkerResource.git
+[submodule "VikingWarriorResource"]
+	path = VikingWarriorResource
+	url = git@github.com:vikinghug/VikingWarriorResource.git
